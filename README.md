@@ -1,2 +1,3 @@
 # Nachi-robot-program-translator
-Program Translator
+Robot program comment translation website
+
